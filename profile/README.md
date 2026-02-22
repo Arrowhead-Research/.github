@@ -1,4 +1,4 @@
-# Arrowhead Research
+![Arrowhead Research](../static/arrowhead.jpg)
 
 **From Field to Function**
 
