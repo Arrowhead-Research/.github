@@ -1,4 +1,4 @@
-<img src="../static/arrowhead.jpg" alt="Arrowhead Research" width="400">
+# Arrowhead Research
 
 **From Field to Function**
 
