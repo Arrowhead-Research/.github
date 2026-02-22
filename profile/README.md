@@ -1,4 +1,4 @@
-![Arrowhead Research](../static/arrowhead.jpg)
+<img src="../static/arrowhead.jpg" alt="Arrowhead Research" width="400">
 
 **From Field to Function**
 
